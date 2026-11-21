@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# The database file is rebuilt from schema.sql and seed.sql, so we don't commit it
+*.db
+
+# Editor files
+.vscode/
+.idea/
