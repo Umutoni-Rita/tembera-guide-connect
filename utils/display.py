@@ -1,3 +1,7 @@
+"""
+Printing helpers: headers, money, and tables of guides, experiences and bookings.
+"""
+
 from utils.validation import LANGUAGE_NAMES
 
 
